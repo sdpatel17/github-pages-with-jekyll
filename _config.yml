@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome! I'm Shrenik Patel
+author: Shrenik Patel
+email: sdpatel@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website about me, Shrenik Patel. I am a passionate and hard-working person who values kindness as the fundamental base for success in life.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: shrenikpatel_ # DO NOT include the @ character, or else the build will fail!
+github_username:  sdpatel17 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
