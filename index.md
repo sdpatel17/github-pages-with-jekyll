@@ -6,6 +6,8 @@ title: "Welcome!"
 
 I'm glad you are here! I plan to talk about who I am and what I have done!
 
+<style>
 .img{
 transform: scale(0.5);
 }
+</style>
