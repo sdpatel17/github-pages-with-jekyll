@@ -2,6 +2,6 @@
 title: "Welcome!"
 ---
 
-img: https://github.com/sdpatel17/github-pages-with-jekyll/blob/90c87ddc77f5867285e4eaf62055380c888d4f4c/367DB904-628D-4361-8223-C6C6E46E44A8.JPG
+<img src="367DB904-628D-4361-8223-C6C6E46E44A8.JPG">
 
 I'm glad you are here! I plan to talk about who I am and what I have done!
